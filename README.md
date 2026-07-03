@@ -31,13 +31,15 @@ Fontes abertas selecionadas e carregadas no NotebookLM (texto e/ou PDF). *Substi
 
 | # | Fonte | Tipo | Link |
 |---|-------|------|------|
-| 1 | Artigo introdutório sobre a profissão de Analista Quantitativo | Texto/Blog | `[inserir link]` |
-| 2 | Paper acadêmico sobre modelos de precificação de ativos (ex: CAPM, Black-Scholes) | PDF | `[inserir link]` |
-| 3 | Documentação/tutorial sobre Python para finanças quantitativas | Texto | `[inserir link]` |
-| 4 | Relatório ou guia sobre carreiras em finanças quantitativas (ex: CFA Institute, QuantStart) | PDF | `[inserir link]` |
-| 5 | Artigo sobre gestão de risco e VaR (Value at Risk) | Texto/PDF | `[inserir link]` |
+| 1 | Análise quantitativa (finanças) — Wikipédia PT | Texto (visão geral do conceito, áreas de atuação e formação) | https://pt.wikipedia.org/wiki/An%C3%A1lise_quantitativa_(finan%C3%A7as) |
+| 2 | Understanding How to Become a Quantitative Analyst — QuantStart | Texto (guia de carreira em inglês, referência clássica da área) | https://www.quantstart.com/articles/Understanding-How-to-Become-a-Quantitative-Analyst/ |
+| 3 | Self-Study Plan for Becoming a Quantitative Analyst — QuantStart | Texto (plano de estudos autodidata, matemática e programação) | https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Analyst/ |
+| 4 | Profissão: Quant — Artigos da Quantzed | Texto/Blog (mercado brasileiro, formação e matemática exigida) | https://artigos.quantzed.com.br/2024/02/02/profissao-quant/ |
+| 5 | Finanças Quantitativas — Ementa do Mestrado Profissional em Métodos Matemáticos em Finanças (IMPA) | Texto/Syllabus (tópicos avançados: derivativos, Black-Scholes, VaR) | https://impa.br/postgraduate/training-programs/professional-masters-degree-in-mathematical-methods-in-finance/subjects-professional-masters-in-mathematical-methods-in-finance/quantitative-finance/?lang=en |
 
-> 💡 **Sugestões de fontes abertas confiáveis para pesquisar:** QuantStart, Investopedia, artigos do SSRN (Social Science Research Network), materiais introdutórios do CFA Institute, documentação oficial de bibliotecas como `pandas`, `numpy` e `QuantLib`.
+> 💡 **Fonte extra (opcional, mais avançada):** Ensaios em Finanças Quantitativas — dissertação de mestrado da USP sobre apreçamento de derivativos e cópulas de Lévy (PDF acadêmico): https://www.teses.usp.br/teses/disponiveis/12/12139/tde-10052010-151041/publico/EdsonBastosTese.pdf — boa para quem quiser aprofundar em modelagem matemática.
+>
+> 📥 **Como usar:** baixe/exporte essas páginas como PDF (ou use a extensão "Salvar como PDF" do navegador) e faça o upload dos arquivos no NotebookLM para começar as perguntas.
 
 ---
 
