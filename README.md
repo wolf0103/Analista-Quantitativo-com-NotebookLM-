@@ -37,9 +37,6 @@ Fontes abertas selecionadas e carregadas no NotebookLM (texto e/ou PDF).
 | 4 | Profissão: Quant — Artigos da Quantzed | Texto/Blog (mercado brasileiro, formação e matemática exigida) | https://artigos.quantzed.com.br/2024/02/02/profissao-quant/ |
 | 5 | Finanças Quantitativas — Ementa do Mestrado Profissional em Métodos Matemáticos em Finanças (IMPA) | Texto/Syllabus (tópicos avançados: derivativos, Black-Scholes, VaR) | https://impa.br/postgraduate/training-programs/professional-masters-degree-in-mathematical-methods-in-finance/subjects-professional-masters-in-mathematical-methods-in-finance/quantitative-finance/?lang=en |
 
-> 💡 **Fonte extra (opcional, mais avançada):** Ensaios em Finanças Quantitativas — dissertação de mestrado da USP sobre apreçamento de derivativos e cópulas de Lévy (PDF acadêmico): https://www.teses.usp.br/teses/disponiveis/12/12139/tde-10052010-151041/publico/EdsonBastosTese.pdf — boa para quem quiser aprofundar em modelagem matemática.
->
-> 📥 **Como usar:** baixe/exporte essas páginas como PDF (ou use a extensão "Salvar como PDF" do navegador) e faça o upload dos arquivos no NotebookLM para começar as perguntas.
 
 ---
 
@@ -156,15 +153,5 @@ Profissional que aplica matemática, estatística, programação e conhecimento 
 
 6. "Explique [conceito técnico] como se eu fosse um iniciante completo no assunto, usando
    analogias simples."
-```
 
----
-
-## 🛠️ Como este material foi construído
-
-1. Seleção de 3 a 5 fontes abertas sobre Analista Quantitativo (artigos, PDFs e materiais introdutórios);
-2. Upload das fontes no [NotebookLM](https://notebooklm.google.com/);
-3. Elaboração de prompts estratégicos para extrair resumos, comparações e glossários;
-4. Documentação do processo de tentativa e erro (troubleshooting) na engenharia de prompts;
-5. Consolidação do conteúdo final neste README como Miniguia de Estudo.
 
