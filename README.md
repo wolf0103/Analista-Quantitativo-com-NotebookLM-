@@ -27,7 +27,7 @@ Escolhi esse tema porque quero entender melhor:
 
 ## 📚 Curadoria de Fontes
 
-Fontes abertas selecionadas e carregadas no NotebookLM (texto e/ou PDF). *Substitua os links abaixo pelos que você efetivamente utilizou.*
+Fontes abertas selecionadas e carregadas no NotebookLM (texto e/ou PDF).
 
 | # | Fonte | Tipo | Link |
 |---|-------|------|------|
